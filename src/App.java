@@ -9,10 +9,11 @@ public class App {
         // 2C
         // 3B
         // 4A
-        // 5A,B
+        // 6
+        // 5B
         // 7A
         // 8D
-        
+
         // bai 1
         ArrayList<String> list = new ArrayList<String>();
         ArrayList<Integer> numberList = new ArrayList<Integer>();
